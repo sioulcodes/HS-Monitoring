@@ -1,4 +1,4 @@
-# Brainstorming zur möglichen Lösungen
+# Brainstorming zu möglichen Lösungen
 
 **Hey, bis zum nächsten Treffen bitte mögliche Lösungen zu den _Priorität-1-Themen_ recherchieren. Wenn ihr eine mögliche Lösung zu einem Thema findet, das schon in der Liste steht, dann fügt bitte weitere Infos hinzu und macht keine neue Rubrik auf. Schreibt zu jedem Thema, wenn möglich, eine mögliche Lösung und beschreibt dann in euren eigenen Worten die Vor- und Nachteile.**
 
